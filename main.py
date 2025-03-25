@@ -14,29 +14,29 @@ def about():
 def storitve():
     return render_template('motor.html')
 
-@app.route('/jermen')
+@app.route('/kontakt')
 def kontakt():
-    return render_template('jermen.html')
+    return render_template('kontakt.html')
 
 @app.route('/motor')
-def storitev1():
+def motor():
     return render_template('motor.html')
 
 @app.route('/turbina')
-def storitev2():
+def turbina():
     return render_template('turbina.html')
 
-@app.route('/storitev3')
-def storitev3():
-    return render_template('storitev3.html')
+@app.route('/luči')
+def luči():
+    return render_template('luči.html')
 
-@app.route('/storitev4')
-def storitev4():
-    return render_template('storitev4.html')
+@app.route('/gume')
+def gume():
+    return render_template('gume.html')
 
-@app.route('/storitev5')
-def storitev5():
-    return render_template('storitev5.html')
+@app.route('/platišča')
+def platišča():
+    return render_template('platišča.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
