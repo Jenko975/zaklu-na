@@ -4,8 +4,6 @@ Spletna stran za masažni salon je namenjena posameznikom, ki iščejo kakovostn
 ### Spletna stran salona bo omogočala:
 - Pregled vseh masažnih storitev po kategorijah (klasična, terapevtska, športna, sprostitvena, tajska ipd.).
 - Enostavno in hitro rezervacijo terminov prek spleta.
-- Možnost izbire terapevta glede na specializacijo in ocene uporabnikov.
-- Nakup darilnih bonov in paketov masaž.
 - Stik s salonom preko klepeta v živo ali e-pošte za dodatne informacije in svetovanje.
 
 ## Raziskava problema  
